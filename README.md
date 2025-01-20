@@ -1,3 +1,5 @@
+![Language: Dart](https://img.shields.io/badge/Language-Dart-brightgreen)
+
 ⭐Slicing UI "Login / Register - Mobile App" from dribbble design by Yasir Ahmad Noori⭐
 ![Image](https://github.com/user-attachments/assets/ebf1aa4b-b81b-43c3-bbc0-28bc0d9a5410)
 
